@@ -83,7 +83,7 @@ read:
     cout<<"\n your OTP is:";
 
     randomPasswordGeneration(N);
-    cout<<"\n USE THIS OTP TO ACCESS YOUR E.V.";
+    cout<<"\n Your OTP:";
 
     return 0;
 }
